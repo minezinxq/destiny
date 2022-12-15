@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.mbwp-form .mbwp-form-control,
+.mbwp-form .mbwp-form-clearfix {
+    border-spacing: 0;
+    clear: both;
+    width: 100%;
+}
+
+.mbwp-form .mbwp-form-clearfix {
+    margin-bottom: 15px;
+}
